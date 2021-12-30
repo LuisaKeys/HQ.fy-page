@@ -144,13 +144,11 @@ section h1{
 }
 footer{
     color: white;
-    background-color: #440303;
-    margin-top: 60px;
-    padding-top: 15px;
-    padding-bottom: 15px ;
-    max-width: 100%;
+    background-color: transparent;
+    border-top: 1px solid white;
+    margin: 50px;
+    padding-top: 15px 0;
     text-align: center;
-    box-shadow: inset 0px 10px 10px rgba(0, 0, 0, 0.192);
 }
 footer a{
     color: white;
