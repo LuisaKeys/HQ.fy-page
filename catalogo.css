@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 #banner{
-    background-image: url(../imagens/banner-principal.jpg);
+    background-image: url(imagens/banner-principal.jpg);
     background-position: center center;
     height: 700px;
 }
