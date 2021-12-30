@@ -1,9 +1,8 @@
 @charset "uft-8";
-@charset "uft-8";
 
 @font-face {
     font-family: 'Astro';
-    src: url(../fontes/Astro.ttf);
+    src: url(fontes/Astro.ttf);
 }
 *{
     margin: 0px;
