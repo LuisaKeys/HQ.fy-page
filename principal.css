@@ -54,6 +54,7 @@ header{
     float: right;
     margin-top: 10px;
     margin-right: 80px;
+    padding: 0px;
 }
 #menu li{
     list-style-type: none;
