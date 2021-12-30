@@ -1,0 +1,48 @@
+@charset "utf-9";
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Bebas';
+    background-color: #6e0505;
+    color: white;
+}
+main{
+    padding: 20px;
+    margin: 60px auto;	 
+    text-align: center;
+    max-width: 80%;
+    background-color: transparent;
+}
+div{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 0 10px;
+    box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1);
+    transition: 1s;
+    background-color: transparent;
+    border-radius: 45px;
+    background-color: black;
+}
+div img{
+    display: block;
+    width:100%;
+    border-radius: 15px;
+}
+div:hover{
+    transform: scale(1.05);
+    z-index: 2;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+p{
+    margin-top: 10px;
+}
