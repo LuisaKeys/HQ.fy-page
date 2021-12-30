@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+#banner{
+    background-image: url(../imagens/banner-principal.jpg);
+    background-position: center center;
+    height: 700px;
+}
+#banner div{
+    max-width: 40%;
+    margin-left: 30px;
+    padding-top: 20%;
+    color: white;
+}
+#banner div h1{
+    font-size: 90px;
+    font-family: 'Bebas';
+}
+#banner div p{
+    text-indent: 20px;
+}
