@@ -150,7 +150,7 @@ section h1{
 footer{
     color: white;
     background-color: transparent;
-    border-top: rgba(255, 255, 255, 0.342);
+    border-top: 1px solid rgba(255, 255, 255, 0.342);
     margin: 50px;
     padding-top: 15px 0;
     text-align: center;
